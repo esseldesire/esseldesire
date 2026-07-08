@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Essel Desire
 
-<!--
-**esseldesire/esseldesire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+I am a cybersecurity student at NIIT Port-Harcourt, passionate about offensive and defensive cybersecurity. 
+I enjoy building practical cybersecurity projets that demonstrate real-world skills in:
+- Penetration Testing
+- Log Anaysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Vulnerability Assessment
+- Governance Risk and Compliance
 
-Here are some ideas to get you started:
+  ## Projects
+  | project | Description | Respository |
+  | ....... | ........... | ........... |
+  | OSINT Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
+  | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Operating Systems
+- Windows
+- Linux
+
+ ### Networking
+  - TCP/IP
+  - DNS
+  - HTTP
+  - FTP
+  - SSH
+
+### Cybersecurity Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Splunk
+- Metasploit
+- Git
+- GitHub
+
+## Certifications
+- ISC2 CC
+- CompTIA Security+ (In Progress)
+
+## Education 
+- NIIT Port Harcourt: Cybersecurity Program
+- Tonye Infosec: Mentorship and Internship Program
+  
+## Contact
+Email: esseldesire@gmail.com
+    
+ 
+  |
