@@ -14,8 +14,8 @@ I enjoy building practical cybersecurity projets that demonstrate real-world ski
 - Governance Risk and Compliance
 
   ## Projects
-  | project | Description | Respository |
-  | ....... | ........... | ........... |
+  |project|Description|Respository|
+  |-------|-----------|-----------|
   | OSINT Investigation | Conducted an OSINT investigation on a target organization | Coming soon |
   | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | Coming soon |
 
